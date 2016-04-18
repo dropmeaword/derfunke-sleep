@@ -1,0 +1,6 @@
+test
+sync
+
+config.php
+*.lock
+*.sqlite
